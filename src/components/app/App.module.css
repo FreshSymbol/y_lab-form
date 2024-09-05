@@ -1,0 +1,13 @@
+.app {
+  width: 100dvw;
+  background-image: linear-gradient(
+    to left bottom,
+    transparent,
+    rgb(95, 1, 167),
+    rgb(161, 5, 251)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+}
